@@ -4,7 +4,7 @@
 
 <div>
   
-[![GitHub stars](https://img.shields.io/github/stars/Cyacer/financias-Pessoais.svg?style=social&label=Stars)](https://github.com/Cyacer/Pessoais)
+[![GitHub stars](https://img.shields.io/github/stars/Cyacer/Sistema-Financias-Pessoais.svg?style=social&label=Stars)](https://github.com/Cyacer/Sistema-Financias-Pessoais)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
   
 </div>
